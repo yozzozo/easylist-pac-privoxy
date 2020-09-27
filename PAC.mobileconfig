@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Global HTTP Proxy</string>
+
+			<key>PayloadDisplayName</key>
+			<string>Adblock HTTP Proxy</string>
+
+			<key>PayloadIdentifier</key>
+			<string>com.apple.proxy.http.global.0dd1cbee-005b-11eb-adc1-0242ac120002</string>
+
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+
+			<key>PayloadUUID</key>
+			<string>0dd1cbee-005b-11eb-adc1-0242ac120002</string>
+
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+
+			<key>ProxyPACFallbackAllowed</key>
+			<true/>
+
+			<key>ProxyPACURL</key>
+			<string>https://raw.githubusercontent.com/yozzozo/easylist-pac-privoxy/master/proxy.pac</string>
+
+			<key>ProxyType</key>
+			<string>Auto</string>
+		</dict>
+	</array>
+
+	<key>PayloadDisplayName</key>
+	<string>Adblock HTTP Proxy</string>
+	
+	<key>PayloadIdentifier</key>
+	<string>yozzozo.14b312ec-005b-11eb-adc1-0242ac120002</string>
+	
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+
+	<key>PayloadUUID</key>
+	<string>1adc1ea2-005b-11eb-adc1-0242ac120002</string>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
