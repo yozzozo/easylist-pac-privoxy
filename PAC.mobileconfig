@@ -7,13 +7,10 @@
 		<dict>
 			<key>PayloadDescription</key>
 			<string>Global HTTP Proxy</string>
-
 			<key>PayloadDisplayName</key>
 			<string>Adblock HTTP Proxy</string>
-
 			<key>PayloadIdentifier</key>
 			<string>com.apple.proxy.http.global.0dd1cbee-005b-11eb-adc1-0242ac120002</string>
-
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 
@@ -29,7 +26,6 @@
 
 			<key>ProxyPACURL</key>
 			<string>https://raw.githubusercontent.com/yozzozo/easylist-pac-privoxy/master/proxy.pac</string>
-
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
