@@ -22,12 +22,10 @@
 
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
 			<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
-
 			<key>ProxyPACFallbackAllowed</key>
-			<true/>
+			<false/>
 
 			<key>ProxyPACURL</key>
 			<string>https://raw.githubusercontent.com/yozzozo/easylist-pac-privoxy/master/proxy.pac</string>
