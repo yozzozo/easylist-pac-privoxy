@@ -4141,6 +4141,7 @@ else if (
    dnsDomainIs(host, ".apps.apple.com") ||
    dnsDomainIs(host, ".mzstatic.com") ||
    (host == "ppq.apple.com") || dnsDomainIs(host, "ppq.apple.com") ||
+   (host == "itunes.apple.com") || dnsDomainIs(host, "itunes.apple.com") || 
    (host == "lcdn-registration.apple.com") || dnsDomainIs(host, "lcdn-registration.apple.com") ||
    (host == "crl.apple.com") || dnsDomainIs(host, "crl.apple.com") ||
    (host == "crl.entrust.net") || dnsDomainIs(host, "crl.entrust.net") ||
